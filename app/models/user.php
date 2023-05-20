@@ -30,6 +30,9 @@ public  function setid($id){
 public function getid(){
     return $this->id;
 }
+public function mm(){
+    return 0;
+}
 
 
 
